@@ -1,6 +1,6 @@
 # BIMDUCK 🦆 - Rhino 8 to IFC Bridge
 
-![BIMDUCK Logo](00_Logos/BIMDUCK_LOGO.png)
+![BIMDUCK Logo](00_Logos/DUCK%20BLANCO%20NEGRO.png)
 
 ## Description / Descripción
 
