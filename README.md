@@ -48,3 +48,7 @@ Current version / Versión actual: **v0.0.15 (Beta)**
 ## ⚖️ License / Licencia
 
 This software is **Proprietary**. All rights reserved. Professional use version. / Este software es **Propietario**. Todos los derechos reservados. Versión de uso profesional.
+
+**Copyright © 2026 Vexure**
+
+For inquiries / Para consultas: [infovexure@gemail.com](mailto:infovexure@gemail.com)
