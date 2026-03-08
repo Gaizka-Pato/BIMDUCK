@@ -1,4 +1,4 @@
-# BIMDUCK 🦆 - Rhino 8 to IFC Bridge
+# BIMDUCK - Rhino 8 to IFC
 
 ![BIMDUCK Logo](00_Logos/DUCK%20BLANCO%20NEGRO.png)
 
