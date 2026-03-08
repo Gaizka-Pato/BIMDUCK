@@ -31,9 +31,17 @@ Con BIMDUCK, tus diseños no son solo formas en el espacio; se convierten en pro
 
 ## 📥 Downloads / Descargas
 
-Check the [Releases](https://github.com/Gaizka-Pato/BIMDUCK/releases) section for the latest stable zip file. / Consulta la sección de [Lanzamientos](https://github.com/Gaizka-Pato/BIMDUCK/releases) para obtener el último archivo zip estable.
+### [English]
+Always get the latest version from the **[Releases](https://github.com/Gaizka-Pato/BIMDUCK/releases)** page. 
 
-Current version / Versión actual: **v0.0.15 (Beta)**
+- **[Download Latest: v0.0.15 (Beta)](https://github.com/Gaizka-Pato/BIMDUCK/releases/download/v0.0.15/BimDuck_V0.0.15.zip)**
+- [View all versions](https://github.com/Gaizka-Pato/BIMDUCK/releases)
+
+### [Castellano]
+Obtén siempre la última versión desde la página de **[Lanzamientos](https://github.com/Gaizka-Pato/BIMDUCK/releases)**.
+
+- **[Descargar Última: v0.0.15 (Beta)](https://github.com/Gaizka-Pato/BIMDUCK/releases/download/v0.0.15/BimDuck_V0.0.15.zip)**
+- [Ver todas las versiones](https://github.com/Gaizka-Pato/BIMDUCK/releases)
 
 ---
 
