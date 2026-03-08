@@ -34,13 +34,13 @@ Con BIMDUCK, tus diseños no son solo formas en el espacio; se convierten en pro
 ### [English]
 Always get the latest version from the **[Releases](https://github.com/Gaizka-Pato/BIMDUCK/releases)** page. 
 
-- **[Download Latest: v0.0.14 (Beta)](https://github.com/Gaizka-Pato/BIMDUCK/releases/download/v0.0.14/BimDuck_v0.0.14.zip)**
+- **[Download Latest: v0.0.15 (Beta)](https://github.com/Gaizka-Pato/BIMDUCK/releases/download/v0.0.15/BimDuck_v0.0.15.zip)**
 - [View all versions](https://github.com/Gaizka-Pato/BIMDUCK/releases)
 
 ### [Castellano]
 Obtén siempre la última versión desde la página de **[Lanzamientos](https://github.com/Gaizka-Pato/BIMDUCK/releases)**.
 
-- **[Descargar Última: v0.0.14 (Beta)](https://github.com/Gaizka-Pato/BIMDUCK/releases/download/v0.0.14/BimDuck_v0.0.14.zip)**
+- **[Descargar Última: v0.0.15 (Beta)](https://github.com/Gaizka-Pato/BIMDUCK/releases/download/v0.0.15/BimDuck_v0.0.15.zip)**
 - [Ver todas las versiones](https://github.com/Gaizka-Pato/BIMDUCK/releases)
 
 ---
@@ -59,4 +59,4 @@ This software is **Proprietary**. All rights reserved. Professional use version.
 
 **Copyright © 2026 Vexure**
 
-For inquiries / Para consultas: [infovexure@gemail.com](mailto:infovexure@gemail.com)
+For inquiries / Para consultas: [infovexure@gmail.com](mailto:infovexure@gmail.com)
