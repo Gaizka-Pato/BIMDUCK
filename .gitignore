@@ -1,0 +1,19 @@
+# Rhino Project files
+*.rhproj
+_Copia de Seguridad/
+00_ANULADOS/
+**/00_Anulados/
+
+# Python artifacts
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# User settings
+.rhino/
+.vscode/
+
+# Ignore actual versions to prevent massive zip files in history
+99_Historial versiones/*.zip
+99_Historial versiones/BimDuck_V*
