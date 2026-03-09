@@ -1,22 +1,22 @@
-# BIMDUCK - Rhino 8 to IFC
+# BimDuck - Rhino 8 to IFC
 
-![BIMDUCK Logo](00_Logos/DUCK%20BLANCO%20NEGRO.png)
+![BimDuck Logo](00_Logos/DUCK%20BLANCO%20NEGRO.png)
 
 ## Description / Descripción
 
 ### [English]
-**BIMDUCK: The ultimate bridge between your creativity and the BIM environment**
+**BimDuck: The ultimate bridge between your creativity and the BIM environment**
 
-**BIMDUCK** is the essential tool for those looking to merge creative design with the professional world of construction. This powerful **Rhino** add-on completely transforms your workflow, allowing you to move your ideas into any project management platform without the typical headaches of data loss or impossible configurations.
+**BimDuck** is the essential tool for those looking to merge creative design with the professional world of construction. This powerful **Rhino** add-on completely transforms your workflow, allowing you to move your ideas into any project management platform without the typical headaches of data loss or impossible configurations.
 
-With BIMDUCK, your designs are no longer just shapes in space; they become smart, reality-ready projects through **native IFC exchange**. Our solution automatically translates your Rhino layer structure into a clean, professional IFC hierarchy, eliminating complex mappings and repetitive tasks. Focus on what you do best—designing—while BIMDUCK ensures the technical integrity and precision of your deliverables.
+With BimDuck, your designs are no longer just shapes in space; they become smart, reality-ready projects through **native IFC exchange**. Our solution automatically translates your Rhino layer structure into a clean, professional IFC hierarchy, eliminating complex mappings and repetitive tasks. Focus on what you do best—designing—while BimDuck ensures the technical integrity and precision of your deliverables.
 
 ### [Castellano]
-**BIMDUCK: El puente definitivo entre tu creatividad y el entorno BIM**
+**BimDuck: El puente definitivo entre tu creatividad y el entorno BIM**
 
-**BIMDUCK** es la herramienta esencial para quienes buscan unir el diseño creativo con el mundo profesional de la construcción. Este potente complemento para **Rhino** transforma por completo tu forma de trabajar, permitiéndote trasladar tus ideas a cualquier plataforma de gestión de proyectos sin los típicos dolores de cabeza por pérdida de información o configuraciones imposibles.
+**BimDuck** es la herramienta esencial para quienes buscan unir el diseño creativo con el mundo profesional de la construcción. Este potente complemento para **Rhino** transforma por completo tu forma de trabajar, permitiéndote trasladar tus ideas a cualquier plataforma de gestión de proyectos sin los típicos dolores de cabeza por pérdida de información o configuraciones imposibles.
 
-Con BIMDUCK, tus diseños no son solo formas en el espacio; se convierten en proyectos inteligentes y listos para la realidad mediante el **intercambio IFC nativo**. Nuestra solución traduce automáticamente tu estructura de capas de Rhino en una jerarquía IFC limpia y profesional, eliminando mapeos complejos y tareas repetitivas. Céntrate en lo que mejor sabes hacer—diseñar—mientras BIMDUCK asegura la integridad técnica y la precisión de tus entregas.
+Con BimDuck, tus diseños no son solo formas en el espacio; se convierten en proyectos inteligentes y listos para la realidad mediante el **intercambio IFC nativo**. Nuestra solución traduce automáticamente tu estructura de capas de Rhino en una jerarquía IFC limpia y profesional, eliminando mapeos complejos y tareas repetitivas. Céntrate en lo que mejor sabes hacer—diseñar—mientras BimDuck asegura la integridad técnica y la precisión de tus entregas.
 
 ---
 
@@ -32,16 +32,16 @@ Con BIMDUCK, tus diseños no son solo formas en el espacio; se convierten en pro
 ## 📥 Downloads / Descargas
 
 ### [English]
-Always get the latest version from the **[Releases](https://github.com/Gaizka-Pato/BIMDUCK/releases)** page. 
+Always get the latest version from the **[Releases](https://github.com/Gaizka-Pato/BimDuck/releases)** page. 
 
-- **[Download Latest: v0.0.16 (Beta)](https://github.com/Gaizka-Pato/BIMDUCK/releases/download/v0.0.16/BimDuck_v0.0.16.zip)**
-- [View all versions](https://github.com/Gaizka-Pato/BIMDUCK/releases)
+- **[Download Latest: v0.0.16 (Beta)](https://github.com/Gaizka-Pato/BimDuck/releases/download/v0.0.16/BimDuck_v0.0.16.zip)**
+- [View all versions](https://github.com/Gaizka-Pato/BimDuck/releases)
 
 ### [Castellano]
-Obtén siempre la última versión desde la página de **[Lanzamientos](https://github.com/Gaizka-Pato/BIMDUCK/releases)**.
+Obtén siempre la última versión desde la página de **[Lanzamientos](https://github.com/Gaizka-Pato/BimDuck/releases)**.
 
-- **[Descargar Última: v0.0.16 (Beta)](https://github.com/Gaizka-Pato/BIMDUCK/releases/download/v0.0.16/BimDuck_v0.0.16.zip)**
-- [Ver todas las versiones](https://github.com/Gaizka-Pato/BIMDUCK/releases)
+- **[Descargar Última: v0.0.16 (Beta)](https://github.com/Gaizka-Pato/BimDuck/releases/download/v0.0.16/BimDuck_v0.0.16.zip)**
+- [Ver todas las versiones](https://github.com/Gaizka-Pato/BimDuck/releases)
 
 ---
 
