@@ -34,13 +34,13 @@ Con BimDuck, tus diseños no son solo formas en el espacio; se convierten en pro
 ### [English]
 Always get the latest version from the **[Releases](https://github.com/Gaizka-Pato/BimDuck/releases)** page. 
 
-- **[Download Latest: v0.0.16 (Beta)](https://github.com/Gaizka-Pato/BimDuck/releases/download/v0.0.16/BimDuck_v0.0.16.zip)**
+- **[Download Latest: v0.0.17 (Beta)](https://github.com/Gaizka-Pato/BimDuck/releases/download/v0.0.17/BimDuck_v0.0.17.zip)**
 - [View all versions](https://github.com/Gaizka-Pato/BimDuck/releases)
 
 ### [Castellano]
 Obtén siempre la última versión desde la página de **[Lanzamientos](https://github.com/Gaizka-Pato/BimDuck/releases)**.
 
-- **[Descargar Última: v0.0.16 (Beta)](https://github.com/Gaizka-Pato/BimDuck/releases/download/v0.0.16/BimDuck_v0.0.16.zip)**
+- **[Descargar Última: v0.0.17 (Beta)](https://github.com/Gaizka-Pato/BimDuck/releases/download/v0.0.17/BimDuck_v0.0.17.zip)**
 - [Ver todas las versiones](https://github.com/Gaizka-Pato/BimDuck/releases)
 
 ---
